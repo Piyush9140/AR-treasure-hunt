@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "f0b7b7833e83",
+        "mtime": 1648627256000,
+        "size": 240470124,
+        "localPath": "C:\\Users\\Piyush Agarwal\\AR PROJECT\\Treasure-Hunt\\trea_hunt\\Packages\\com.ptc.vuforia.engine-10.6.3.tgz"
+      }
+    }
+  }
+}

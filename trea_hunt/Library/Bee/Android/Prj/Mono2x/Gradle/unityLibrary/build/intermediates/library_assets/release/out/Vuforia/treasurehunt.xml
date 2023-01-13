@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="What" size="1.000000 0.545966" />
+    <ImageTarget name="20220518_150502" size="1.000000 0.581602" />
+    <ImageTarget name="20220518_150321" size="1.000000 0.570292" />
+    <ImageTarget name="20220518_150738" size="1.000000 0.622594" />
+    <ImageTarget name="WhatsAp" size="1.000000 0.206250" />
+    <ImageTarget name="20220517_170511" size="1.000000 0.208230" />
+    <ImageTarget name="Wh" size="1.000000 0.602098" />
+    <ImageTarget name="W" size="1.000000 0.770691" />
+    <ImageTarget name="20220517_170205" size="1.000000 0.210565" />
+    <ImageTarget name="photo_2022-04-13_21-42-20" size="1.000000 0.586667" />
+    <ImageTarget name="photo_2022-04-13_21-41-57" size="1.000000 0.695513" />
+    <ImageTarget name="photo_2022-04-13_21-40-58" size="1.000000 0.670230" />
+    <ImageTarget name="photo_2022-04-04_17-59-34" size="1.000000 1.333333" />
+    <ImageTarget name="photo_2022-04-04_17-59-15" size="1.000000 1.333333" />
+    <ImageTarget name="photo_2022-04-13_21-41-35" size="1.000000 0.555840" />
+    <ImageTarget name="photo_2022-04-06_23-48-38" size="1.000000 0.661870" />
+    <ImageTarget name="photo_2022-04-06_23-42-35" size="1.000000 0.750000" />
+    <ImageTarget name="photo_2022-04-06_23-42-10" size="1.000000 1.342747" />
+    <ImageTarget name="photo_2022-04-06_23-28-06" size="1.000000 0.402266" />
+    <ImageTarget name="photo_2022-04-06_23-27-43" size="1.000000 0.663280" />
+    <ImageTarget name="photo_2022-04-06_23-27-11" size="1.000000 1.277778" />
+    <ImageTarget name="photo_2022-04-06_23-26-42" size="1.000000 0.705455" />
+    <ImageTarget name="IMG-20220403-WA0002" size="1.000000 0.750000" />
+    <ImageTarget name="IMG-20220329-WA0008" size="1.000000 0.633938" />
+    <ImageTarget name="photo_2022-04-11_18-13-25" size="1.000000 1.391304" />
+    <ImageTarget name="photo_2022-04-07_20-40-35" size="1.000000 0.604406" />
+    <ImageTarget name="photo_2022-04-04_11-19-55" size="1.000000 2.310469" />
+    <ImageTarget name="photo_2022-04-11_19-04-11" size="1.000000 0.214062" />
+    <ImageTarget name="photo_2022-04-07_20-40-13" size="1.000000 0.748438" />
+    <ImageTarget name="photo_2022-04-07_20-29-52" size="1.000000 1.403417" />
+    <ImageTarget name="photo_2022-04-07_20-29-01" size="1.000000 0.395883" />
+    <ImageTarget name="IMG-20220403-WA0008" size="1.000000 0.609262" />
+    <ImageTarget name="IMG-20220330-WA0006" size="1.000000 1.797753" />
+    <ImageTarget name="IMG-20220330-WA0005" size="1.000000 0.475000" />
+    <ImageTarget name="IMG-20220329-WA0006" size="1.000000 0.607813" />
+    <ImageTarget name="IMG-20220329-WA0003" size="1.000000 0.621410" />
+    <ImageTarget name="IMG-20220328-WA0006" size="1.000000 1.777778" />
+  </Tracking>
+</QCARConfig>
